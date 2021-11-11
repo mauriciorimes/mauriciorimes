@@ -1,4 +1,4 @@
-## Olá, sou Maurício, formado em Web Design pela FAETEC e estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense
+## Olá, sou Maurício, sou estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciorimes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
