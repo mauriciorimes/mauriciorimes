@@ -1,5 +1,5 @@
 ## Olá, sou Maurício, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense.
-Desevolvedor front-end na empresa Tech4Fight e Representante discente em minha faculdade.
+## Desevolvedor front-end na empresa Tech4Fight e Representante discente em minha faculdade.
 
 <div align="center">
   <a href="https://github.com/mauriciorimes">
