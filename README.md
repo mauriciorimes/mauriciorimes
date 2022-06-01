@@ -1,6 +1,6 @@
 ## Olá, sou Maurício, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense.
 ## Iniciação Tecnológica pela Universidade Federal do Rio de Janeiro.
-## Desevolvedor front-end na empresa Tech4Fight e Representante discente em minha faculdade.
+## Web Designer pela Fundação de Apoio à Escola Técnica do Rio de Janeiro.
 
 <div align="center">
   <a href="https://github.com/mauriciorimes">
