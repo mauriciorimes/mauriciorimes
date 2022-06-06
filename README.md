@@ -1,4 +1,4 @@
-## Olá, sou Maurício, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense.
+## Olá, sou Maurício, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense. 6/8
 ## Iniciação Tecnológica pela Universidade Federal do Rio de Janeiro.
 ## Web Designer pela Fundação de Apoio à Escola Técnica do Rio de Janeiro.
 
