@@ -1,6 +1,4 @@
 ## Olá, sou Maurício, estudante de bacharelado em Sistemas de Informação pelo Instituto Federal Fluminense. 7/8
-## Iniciação Tecnológica pela Universidade Federal do Rio de Janeiro.
-
 
 <div align="center">
   <a href="https://github.com/mauriciorimes">
