@@ -18,6 +18,7 @@
   <img align="center" height="30" width="110" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">  
   <img align="center" height="30" width="110" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">  
   <img align="center" height="30" width="110" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">  
+  <img align="center" height="30" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">  
 </div>
 <br>
 
