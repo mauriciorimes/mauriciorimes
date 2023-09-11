@@ -1,4 +1,4 @@
-## Olá, sou Maurício, bacharel em Sistemas de Informação pelo Instituto Federal Fluminense - 8/8
+## Olá, sou Maurício, bacharel em Sistemas de Informação pelo Instituto Federal Fluminense
 ## Desenvolvedor full-stack júnior pela empresa Tech4Fight.
 ## Analista de sistemas júnior pelo INSS.
 
