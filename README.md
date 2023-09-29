@@ -1,6 +1,5 @@
 ## Olá, sou Maurício, bacharel em Sistemas de Informação pelo Instituto Federal Fluminense
-## Desenvolvedor full-stack júnior pela empresa Tech4Fight.
-## Analista de sistemas júnior pelo INSS.
+## Desenvolvedor full-stack júnior pela empresa Tech4Fight. 
 
 <div align="center">
   <a href="https://github.com/mauriciorimes">
